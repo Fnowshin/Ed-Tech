@@ -9,6 +9,9 @@ h1{
     background-color: aliceblue;
     
 }
-.course{
-    padding-right: 10px;
+.fa-solid{
+    color: goldenrod;
+}
+.fa-regular{
+    color: gold;
 }
